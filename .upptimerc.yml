@@ -11,6 +11,16 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: 統神大戲院
+    url: https://www.youtube.com/c/%E7%B5%B1%E7%A5%9E%E5%A4%A7%E6%88%B2%E9%99%A2
+  - name: NBA冠軍賽精華
+    url: https://today.line.me/tw/v2/article/wJ5jMmR
+  - name: 溫和小史
+    url: https://www.youtube.com/user/stanleyslol
+  - name: Dinter
+    url: https://www.youtube.com/c/Dinterlolz
+  - name: Another test broken site
+    url: https://abcdefg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
